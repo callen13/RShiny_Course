@@ -1,0 +1,14 @@
+---
+title: "R Shiny Course"
+output: html_notebook
+---
+
+Filler to get started
+
+
+```{r}
+plot(cars)
+```
+
+
+
