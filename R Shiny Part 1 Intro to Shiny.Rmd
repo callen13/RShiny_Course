@@ -1,0 +1,56 @@
+---
+title: "R Shiny Course"
+output: html_notebook
+---
+
+
+###########
+
+Part 1
+
+###########
+
+RStudio
+- use can create interactive web applications
+- upload and download data
+- create visualizations
+
+- don't need any HTML/Javascript
+- professionals
+
+###########
+
+Part 2
+
+###########
+
+Materials from course
+
+- download from part 2 video
+- allmaterials.zip
+- 5 separate zip files for each section of the course
+- use materials to re-create course
+
+Architecture of old shiny applications
+- .ui file
+- serve file: contains computation logic and engine behind the scene
+
+- More recent:
+- revised architecture: Shiny architecture now contains UI and server
+- more complicated applications, it may make sense to have in separate files
+- This course has mix of both old and new architecture
+- Everything is backward-compatible
+- * videos will show how to transfer back and forth by changing a couple of lines *
+
+
+
+
+
+
+
+```{r}
+plot(cars)
+```
+
+
+
